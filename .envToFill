@@ -1,0 +1,5 @@
+# /!\ Rename this file ".env" /!\
+# Fill the ATLAS variable with you credentials and the todo items' collection
+
+PORT=5000
+ATLAS=mongodb+srv://<username>:<password>@<cluster_ID>.mongodb.net/<collection_name>?retryWrites=true&w=majority
