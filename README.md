@@ -2,6 +2,8 @@
 
 A simple Express REST API to manage a todo list. It's connected to a Mongo database.
 
+[Example](https://github.com/Cedric-F/Todos-VueJS)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
